@@ -9,6 +9,9 @@ contributor:
     birthdate: 1848
     gutenberg_agent_id: '6202'
     url: http://www.gutenberg.org/2009/agents/6202
+covers:
+- cover_type: archival
+  image_path: 56229-h/images/cover.jpg
 creator:
   author:
     agent_name: Theiss, Lewis E. (Lewis Edwin)
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '4662'
     url: http://www.gutenberg.org/2009/agents/4662
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56229#The-Young-Wireless-OperatorWith-the-Oyster-Fleet-How-Alec-Cunningham-Won-His-Way-to-the-Top-i_
 gutenberg_issued: '2017-12-23'
 gutenberg_type: Text
 identifiers:
